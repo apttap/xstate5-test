@@ -1,7 +1,7 @@
 # install
 
-''' pnpm install
+``` pnpm install ```
 
 # running
 
-''' pnpm run dev
+``` pnpm run dev ```
